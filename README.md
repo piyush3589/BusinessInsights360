@@ -5,7 +5,7 @@ AtliQ Hardware is growing rapidly in recent years, and they have decided to impl
 
 ## Live Report Link
 
-[Live Report](Live Report Link)
+[Live Report](https://app.powerbi.com/view?r=eyJrIjoiMjkxMDQ4ZmItNGI1YS00MzVkLTliOGYtMDc4ZjM3NDgwZjdmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Tools Used
 
