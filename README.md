@@ -108,18 +108,20 @@ Based on the mockups received as a requirement, the team will start designing th
 In the Home view, all the view buttons will be available. Users will land on specific view pages by clicking the button.
 
 - Info
- ![Info](https://res.cloudinary.com/dymx9fvj9/image/upload/v1708266076/PBIDesktop_75e3VTcSAD_scbpfs.png)]
+ ![Info](https://res.cloudinary.com/dymx9fvj9/image/upload/v1708266076/PBIDesktop_75e3VTcSAD_scbpfs.png)
 - Finance View
-  ![Finance](https://res.cloudinary.com/dymx9fvj9/image/upload/v1708266075/PBIDesktop_O3NcUohyNj_ejijkw.png)]
+  ![Finance](https://res.cloudinary.com/dymx9fvj9/image/upload/v1708266075/PBIDesktop_O3NcUohyNj_ejijkw.png)
 - Sales View
-   ![Finance](https://res.cloudinary.com/dymx9fvj9/image/upload/v1708266540/PBIDesktop_09JwKqHUgq_uugtmc.png)]
+   ![Finance](https://res.cloudinary.com/dymx9fvj9/image/upload/v1708266540/PBIDesktop_09JwKqHUgq_uugtmc.png)
 - Marketing View
-   ![Marketing](https://res.cloudinary.com/dymx9fvj9/image/upload/v1708266639/PBIDesktop_K1eVVYP35Q_d3fnro.png)]
+   ![Marketing](https://res.cloudinary.com/dymx9fvj9/image/upload/v1708266639/PBIDesktop_K1eVVYP35Q_d3fnro.png)
 - Supply Chain View
+   ![Supply Chain](https://res.cloudinary.com/dymx9fvj9/image/upload/v1708266075/PBIDesktop_9CdfzJqYP2_g0sagz.png)
 - Executive View
-- Stakeholder Request
+  ![Executive](https://res.cloudinary.com/dymx9fvj9/image/upload/v1708266075/PBIDesktop_VnspT4Ceoj_g0hixb.png)
 - Support
+  ![Executive](https://res.cloudinary.com/dymx9fvj9/image/upload/v1708266076/PBIDesktop_Y2dDkaGTAJ_mtxxhl.png)
 
 ## Project Outcome
 
-By using this report, decisions can be taken based on the data. Further, it will help in answering numerous why questions based on the situations.
+By using this report, decisions can be taken based on the data. Further, it will help in answering numerous questions based on the situations.
