@@ -108,6 +108,7 @@ Based on the mockups received as a requirement, the team will start designing th
 In the Home view, all the view buttons will be available. Users will land on specific view pages by clicking the button.
 
 - Info
+ [ ![Info](https://res.cloudinary.com/dymx9fvj9/image/upload/v1708266076/PBIDesktop_75e3VTcSAD_scbpfs.png)]
 - Finance View
 - Sales View
 - Marketing View
